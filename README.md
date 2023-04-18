@@ -8,15 +8,15 @@ First run `npm install`
 
 Then run `npm start`
 
-## Available Scripts
-
-In the project directory, you can run:
-
 Optional:
 
 To use the "View in Map" feature you need a Google Maps API Key.
 
 Replace the `<Your API Key>` string in package.json with your own API Key.
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `npm start`
 
