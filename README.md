@@ -6,6 +6,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### To use this app:
+
+First run `npm install`
+
+Then run `npm start`
+
+Optional:
+
+To use the "View in Map" feature you need a Google Maps API Key.
+
+Replace the `<Your API Key>` string in package.json with your own API Key.
+
 ### `npm start`
 
 Runs the app in the development mode.\
